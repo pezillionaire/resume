@@ -1,43 +1,39 @@
 ﻿# Andrew (Pez) Pengelly
 
-________________
 ## Profile
-________________
 
 Andrew (Pez) is an accomplished full stack developer with an emphasis on front end systems and user interface design. Passionate about crafting products and services that are empowering for people of all abilities and identities. Believes in a philosophy of research, prototype, feedback, and iteration to create exceptional software. Adept at combining a diversity of team knowledge with personal experience to solve a variety of technical problems. Personable, friendly, and actively involved in the Vancouver area development and design communities.
 Self motivated — sees learning is a lifelong endeavour.
 
-________________
 ## Skills
-________________
 
 ### Software Development / Interaction Design
 
-* *JavaScript* – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming over OOP.
+* **JavaScript** – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming over OOP.
 
-* *JS Frameworks* – Adaptable to developing for Vue, React, Svelte, Angular, or any other modern front end framework.
+* **JS Frameworks** – Adaptable to developing for Vue, React, Svelte, Angular, or any other modern front end framework.
 
-* *JS APIs, Libraries, Data* – Working with custom APIs from server for consumption by REST or WebSockets. Comfortable using third party integration APIs (Google Maps, Segment, Intercom, etc), able to use 3rd party libraries (D3, Bootstrap, jQuery), and solid understanding of data structures such as JSON or XML.
+* **JS APIs, Libraries, Data** – Working with custom APIs from server for consumption by REST or WebSockets. Comfortable using third party integration APIs (Google Maps, Segment, Intercom, etc), able to use 3rd party libraries (D3, Bootstrap, jQuery), and solid understanding of data structures such as JSON or XML.
 
-* *JS Tooling* – Experience with Node build tools such as Yarn, Webpack, Rollup, Snowpack, Grunt, and Gulp in collaboration with NPM package management to develop project pipelines.
+* **JS Tooling** – Experience with Node build tools such as Yarn, Webpack, Rollup, Snowpack, Grunt, and Gulp in collaboration with NPM package management to develop project pipelines.
 
-* *Git* – Actively uses Github for version control when working in a team or self initiated projects.
+* **Git** – Actively uses Github for version control when working in a team or self initiated projects.
 
-* *HTML5* - Clean markup, proper document structure. Strive for fully accessible DOM that meets WAI-ARIA and WCAG standards.
+* **HTML5** - Clean markup, proper document structure. Strive for fully accessible DOM that meets WAI-ARIA and WCAG standards.
 
-* *CSS3* - Creation of advanced design and layout techniques. Experience with several preprocessors (SCSS, LESS, Stylus) and post processors. Preference for 'SMACSS' based styling architecture but adaptable to setup and adhere to any styling structural system.
+* **CSS3** - Creation of advanced design and layout techniques. Experience with several preprocessors (SCSS, LESS, Stylus) and post processors. Preference for 'SMACSS' based styling architecture but adaptable to setup and adhere to any styling structural system.
 
-* *PostgresSQL* - Comfortable working with and writing SQL, knowledgeable on structure and best practices for robust data storage.
+* **PostgresSQL** - Comfortable working with and writing SQL, knowledgeable on structure and best practices for robust data storage.
 
-* *Ruby* - Experience with the Rails framework, building API systems, controllers, and routing. Knowledgeable with Active Record Models but have preference for direct database queries.
+* **Ruby** - Experience with the Rails framework, building API systems, controllers, and routing. Knowledgeable with Active Record Models but have preference for direct database queries.
 
-* *Design Systems* - Collaboration on a cross-discipline team to develop, codify, and implement a company wide design system. Personally responsible for web styling implementation and deployment, component structuring and deployment, and documentation for development and design teams.
+* **Design Systems** - Collaboration on a cross-discipline team to develop, codify, and implement a company wide design system. Personally responsible for web styling implementation and deployment, component structuring and deployment, and documentation for development and design teams.
 
-* *Interaction Design* - Researching, prototyping, and building user interfaces for web, desktop and mobile environments. Preference for producing interactive prototypes early and iterating based on feedback and critique.
+* **Interaction Design** - Researching, prototyping, and building user interfaces for web, desktop and mobile environments. Preference for producing interactive prototypes early and iterating based on feedback and critique.
 
-* *Responsive Web Design* - Practitioner of the 'mobile first' design philosophy. Adept at creating device agnostic experiences. Inordinate understanding of web browser landscape — desktop and mobile.
+* **Responsive Web Design** - Practitioner of the 'mobile first' design philosophy. Adept at creating device agnostic experiences. Inordinate understanding of web browser landscape — desktop and mobile.
 
-* *Web Performance* - Endeavour for the most performant site or app possible. Web services can be as fast and capable as native applications.
+* **Web Performance** - Endeavour for the most performant site or app possible. Web services can be as fast and capable as native applications.
 
 ### General Computing
 
@@ -53,9 +49,7 @@ ________________
 
 * Broad knowledge of typography and graphic design including: styles and trends, font pairings, grid systems, and web type.
 
-________________
 ## Other Skills
-________________
 
 * Advanced understanding of SLR camera operation — film & digital.
 
@@ -68,9 +62,7 @@ ________________
 
 * CASI level 1 snowboard instructor.
 
-________________
 ## Work Experience
-________________
 
 ### CI Direct Investing/WealthBar
 April 2017 – present
@@ -112,9 +104,7 @@ Senior groundskeeper
 
 Turf and course maintenance for Canada’s premier golf resort. Daily use of groundskeeping equipment and heavy machinery.
 
-________________
 ## Education
-________________
 
 ### Humber College
 2000 – 2002
@@ -124,45 +114,6 @@ Diploma in Multimedia Design & Production.
 1996 – 2000
 Graduated with Grade 12 and OAC diplomas
 
-________________
 ## Other Interests
-________________
+
 Classic Console Video Games, LEGO, Art and Design, Coffee, Mountain biking, Snowboarding/Skiing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-________________
-
-
-
-
-References Upon Request
