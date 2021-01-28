@@ -69,28 +69,28 @@ April 2017 – present
 Senior Software Developer
 
 Full stack developer working on all manner of front end, middleware, back end, and deployment tasks. Lead developer on several large projects including internal administration software, financial advisor portal, public site updates, and user onboarding services. Collaboration with a multi-disciplinary team to create a design system for cross platform use. Emphasis on mentoring junior team members focusing on code review, skill development, and personal growth.
-Link: (cidirectinvesting.com)[cidirectinvesting.com]
+Link: [cidirectinvesting.com](cidirectinvesting.com)
 
 ### Kashoo Cloud Accounting
 July 2013 – April 2017
 UI Developer/Designer
 
 Responsible for front end architecture, interaction design, and user experience for a monolithic Java based accounting web application. Refactored entire styling system in order to white label application for use by third parties. Responsible for a majority of research, prototyping, and construction new interface designs within the company. Helped initiate migration from a monolith application to more modern modular software architecture. Advocate for the user.
-Link: (kashoo.com)[kashoo.com]
+Link: [kashoo.com](kashoo.com)
 
 ### TicTalking
 May 2012 – July 2013
 Front End Developer/Web Designer
 
 Hired as a contractor, was brought onboard full time within 2 weeks. Focused on front end development for rails based systems. Worked with team members to build and iterate site wide interactions, user experiences, and visual designs. Responsible for the construction and maintenance of front end systems. Implemented modular styling using a "SMACSS" system.
-Link: (tictalking.com)[kashoo.com]
+Link: [tictalking.com](tictalking.com)
 
 ### LiNE & PiXEL Design
 April 2010 – April 2017
 Principle, Designer/Developer
 
 Founded LiNE & PiXEL to acquire freelance work and build a reputation for solid web design and development in Whistler.
-Link: (lineandpixel.com)[lineandpixel.com]
+Link: [lineandpixel.com](lineandpixel.com)
 
 ### Whistler Bike Co.
 June 2008 – October 2016
