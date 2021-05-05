@@ -87,7 +87,7 @@ Link: [tictalking.com](tictalking.com)
 
 ### LiNE & PiXEL Design
 April 2010 – April 2017
-Principle, Designer/Developer
+Principal, Designer/Developer
 
 Founded LiNE & PiXEL to acquire freelance work and build a reputation for solid web design and development in Whistler.
 Link: [lineandpixel.com](lineandpixel.com)
