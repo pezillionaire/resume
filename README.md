@@ -9,7 +9,7 @@ Self motivated — sees learning is a lifelong endeavour.
 
 ### Software Development / Interaction Design
 
-* **JavaScript** – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming , can work with OOP.
+* **JavaScript** – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming, can work with OOP.
 
 * **JS Frameworks** – Adaptable to developing for Vue, React, Svelte, Angular, or any other modern front end framework.
 
@@ -66,28 +66,28 @@ May 2021 – present
 Senior Front End Engineer
 
 Lead front end developer on projects including time management and clock control, internal messaging and communication systems, personal bookmarking, asynchronous / lazy load content updates, and reporting metrics data through charts and UI. Collaborated with designers, back end developers, and product managers to deliver features on time in a cycle based, feature driven process.
-Link: [zipline.inc](http://zipline.inc)
+Link: [zipline.inc](https://getzipline.com/)
 
 ### CI Direct Investing/WealthBar
 April 2017 – May 2021
 Senior Software Developer
 
 Full stack developer working on all manner of front end, middleware, back end, and deployment tasks. Lead developer on several large projects including internal administration software, financial advisor portal, public site updates, and user onboarding services. Collaboration with a multi-disciplinary team to create a design system for cross platform use. Emphasis on mentoring junior team members focusing on code review, skill development, and personal growth.
-Link: [cidirectinvesting.com](http://cidirectinvesting.com)
+Link: [cidirectinvesting.com](https://cidirectinvesting.com)
 
 ### Kashoo Cloud Accounting
 July 2013 – April 2017
 UI Developer/Designer
 
 Responsible for front end architecture, interaction design, and user experience for a monolithic Java based accounting web application. Refactored entire styling system in order to white label application for use by third parties. Responsible for a majority of research, prototyping, and construction new interface designs within the company. Helped initiate migration from a monolith application to more modern modular software architecture. Advocate for the user.
-Link: [kashoo.com](http://kashoo.com)
+Link: [kashoo.com](https://kashoo.com)
 
 ### TicTalking
 May 2012 – July 2013
 Front End Developer/Web Designer
 
 Hired as a contractor, was brought onboard full time within 2 weeks. Focused on front end development for rails based systems. Worked with team members to build and iterate site wide interactions, user experiences, and visual designs. Responsible for the construction and maintenance of front end systems. Implemented modular styling using a "SMACSS" system.
-Link: [tictalking.com](http://tictalking.com)
+Link: [tictalking.com](https://tictalking.com)
 
 ### LiNE & PiXEL Design
 April 2010 – April 2017
