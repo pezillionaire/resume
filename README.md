@@ -9,13 +9,13 @@ Self motivated — sees learning is a lifelong endeavour.
 
 ### Software Development / Interaction Design
 
-* **JavaScript** – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming over OOP.
+* **JavaScript** – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming , can work with OOP.
 
 * **JS Frameworks** – Adaptable to developing for Vue, React, Svelte, Angular, or any other modern front end framework.
 
 * **JS APIs, Libraries, Data** – Working with custom APIs from server for consumption by REST or WebSockets. Comfortable using third party integration APIs (Google Maps, Segment, Intercom, etc), able to use 3rd party libraries (D3, Bootstrap, jQuery), and solid understanding of data structures such as JSON or XML.
 
-* **JS Tooling** – Experience with Node build tools such as Yarn, Webpack, Rollup, Snowpack, Grunt, and Gulp in collaboration with NPM package management to develop project pipelines.
+* **JS Tooling** – Experience with Node build tools such as Yarn, Webpack, Vite, Rollup, Snowpack, Grunt, and Gulp in collaboration with NPM package management to develop project pipelines.
 
 * **Git** – Actively uses Github for version control when working in a team or self initiated projects.
 
@@ -25,7 +25,7 @@ Self motivated — sees learning is a lifelong endeavour.
 
 * **PostgresSQL** - Comfortable working with and writing SQL, knowledgeable on structure and best practices for robust data storage.
 
-* **Ruby** - Experience with the Rails framework, building API systems, controllers, and routing. Knowledgeable with Active Record Models but have preference for direct database queries.
+* **Ruby** - Experience with the Rails framework, routing, controllers, and building API endpoint systems. Knowledgeable with ActiveRecord Models but have preference for direct database queries.
 
 * **Design Systems** - Collaboration on a cross-discipline team to develop, codify, and implement a company wide design system. Personally responsible for web styling implementation and deployment, component structuring and deployment, and documentation for development and design teams.
 
@@ -43,7 +43,7 @@ Self motivated — sees learning is a lifelong endeavour.
 
 * Skilled in use of OmniGraffle for creating UI prototypes, mind maps, and developing information architecture systems.
 
-* Capable in Adobe Illustrator for vector graphic production and working with type. Adaptable to other vector applications.
+* Capable in Adobe Illustrator or Sketch for vector graphic production and working with type. Adaptable to other vector applications.
 
 * Experienced with Apple Keynote for creating presentations and interactive UI prototypes.
 
@@ -53,44 +53,48 @@ Self motivated — sees learning is a lifelong endeavour.
 
 * Advanced understanding of SLR camera operation — film & digital.
 
-
 * Experience with chemical film and digital photo processing equipment.
 
-
 * British Columbia class 4 unrestricted driver's license. (taxi and vehicles up to 25 passengers)
-
 
 * CASI level 1 snowboard instructor.
 
 ## Work Experience
 
+### Zipline Inc
+May 2021 – present
+Senior Front End Engineer
+
+Lead front end developer on projects including time management and clock control, internal messaging and communication systems, personal bookmarking, asynchronous / lazy load content updates, and reporting metrics data through charts and UI. Collaborated with designers, back end developers, and product managers to deliver features on time in a cycle based, feature driven process.
+Link: [zipline.inc](http://zipline.inc)
+
 ### CI Direct Investing/WealthBar
-April 2017 – present
+April 2017 – May 2021
 Senior Software Developer
 
 Full stack developer working on all manner of front end, middleware, back end, and deployment tasks. Lead developer on several large projects including internal administration software, financial advisor portal, public site updates, and user onboarding services. Collaboration with a multi-disciplinary team to create a design system for cross platform use. Emphasis on mentoring junior team members focusing on code review, skill development, and personal growth.
-Link: [cidirectinvesting.com](cidirectinvesting.com)
+Link: [cidirectinvesting.com](http://cidirectinvesting.com)
 
 ### Kashoo Cloud Accounting
 July 2013 – April 2017
 UI Developer/Designer
 
 Responsible for front end architecture, interaction design, and user experience for a monolithic Java based accounting web application. Refactored entire styling system in order to white label application for use by third parties. Responsible for a majority of research, prototyping, and construction new interface designs within the company. Helped initiate migration from a monolith application to more modern modular software architecture. Advocate for the user.
-Link: [kashoo.com](kashoo.com)
+Link: [kashoo.com](http://kashoo.com)
 
 ### TicTalking
 May 2012 – July 2013
 Front End Developer/Web Designer
 
 Hired as a contractor, was brought onboard full time within 2 weeks. Focused on front end development for rails based systems. Worked with team members to build and iterate site wide interactions, user experiences, and visual designs. Responsible for the construction and maintenance of front end systems. Implemented modular styling using a "SMACSS" system.
-Link: [tictalking.com](tictalking.com)
+Link: [tictalking.com](http://tictalking.com)
 
 ### LiNE & PiXEL Design
 April 2010 – April 2017
 Principal, Designer/Developer
 
 Founded LiNE & PiXEL to acquire freelance work and build a reputation for solid web design and development in Whistler.
-Link: [lineandpixel.com](lineandpixel.com)
+Link: [lineandpixel.com](http://lineandpixel.com)
 
 ### Whistler Bike Co.
 June 2008 – October 2016
