@@ -11,13 +11,13 @@ Self motivated — sees learning is a lifelong endeavour.
 
 * **JavaScript** – Experienced writing, testing, and debugging JS. Comfortable using transpiled languages (TypeScript, CoffeeScript, etc). Prefers functional style of programming, can work with OOP.
 
-* **JS Frameworks** – Adaptable to developing for Vue, React, Svelte, Angular, or any other modern front end framework.
+* **JS Frameworks** – Adaptable and proficient with developing applictions in Vue, React, Svelte, Angular, or any other modern front end framework.
 
 * **JS APIs, Libraries, Data** – Working with custom APIs from server for consumption by REST or WebSockets. Comfortable using third party integration APIs (Google Maps, Segment, Intercom, etc), able to use 3rd party libraries (D3, Bootstrap, jQuery), and solid understanding of data structures such as JSON or XML.
 
-* **JS Tooling** – Experience with Node build tools such as Yarn, Webpack, Vite, Rollup, Snowpack, Grunt, and Gulp in collaboration with NPM package management to develop project pipelines.
+* **JS Tooling** – Experience with Node build tools such as Vite, Rollup, Snowpack, Yarn, Webpack, Grunt, and Gulp in collaboration with NPM package management to develop project pipelines.
 
-* **Git** – Actively uses Github for version control when working in a team or self initiated projects.
+* **Git** – Actively uses Git via distributed platforms such as Githu, Gitlab and Azure for version control when working in a team or self initiated projects.
 
 * **HTML5** - Clean markup, proper document structure. Strive for fully accessible DOM that meets WAI-ARIA and WCAG standards.
 
@@ -61,8 +61,15 @@ Self motivated — sees learning is a lifelong endeavour.
 
 ## Work Experience
 
+### Nicola Wealth Management
+June 2022 – present
+Principal Software Developer
+
+One of the principal architects behind a green field project to replace a piecemeal legacy codebase with a wholistically conceived solution. Spearhead development of new services to provide high quality working software and support for company and clientele. Responsible for new admin and utility applications for use by financial advisors, portfolio managers, and clients. Collaboration with designers on UX for new services. Creation of componentized frontend systems to allow for quick implementation of new UIs by developers.
+Link: [Nicola Wealth](https://nicolawealth.com/)
+
 ### Zipline Inc
-May 2021 – present
+May 2021 – June 2022
 Senior Front End Engineer
 
 Lead front end developer on projects including time management and clock control, internal messaging and communication systems, personal bookmarking, asynchronous / lazy load content updates, and reporting metrics data through charts and UI. Collaborated with designers, back end developers, and product managers to deliver features on time in a cycle based, feature driven process.
